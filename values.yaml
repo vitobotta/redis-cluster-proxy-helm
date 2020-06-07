@@ -1,0 +1,8 @@
+image:
+  repository: vitobotta/redis-cluster-proxy
+  tag: 0.0.1
+  pullPolicy: IfNotPresent
+
+cluster_address: 127.0.0.1:6379
+
+port: 7777
