@@ -1,6 +1,6 @@
 image:
   repository: vitobotta/redis-cluster-proxy
-  tag: 0.0.1
+  tag: 0.0.2
   pullPolicy: IfNotPresent
 
 cluster_address: 127.0.0.1:6379
